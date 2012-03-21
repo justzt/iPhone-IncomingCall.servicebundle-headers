@@ -1,5 +1,5 @@
-Why need thes header file?
-If you want to hook iPhone incoming call you may neet theses!
+Why need these header files?
+If you want to hook iPhone incoming call you may neet these!
 e.g:
 In MPIncomingPhoneCallController.h you find callerName, incomingCallNumber and so on... 
 
